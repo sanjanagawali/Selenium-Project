@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-04T09:05:26 IST" name="Default suite" finished-at="2019-11-04T09:06:04 IST" duration-ms="37501">
+    <groups>
+    </groups>
+    <test started-at="2019-11-04T09:05:26 IST" name="Default test" finished-at="2019-11-04T09:06:04 IST" duration-ms="37501">
+      <class name="Sample">
+        <test-method signature="test1()[pri:1, instance:Sample@3835c46]" started-at="2019-11-04T09:05:27 IST" name="test1" finished-at="2019-11-04T09:05:38 IST" duration-ms="11510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:Sample@3835c46]" started-at="2019-11-04T09:05:38 IST" name="test2" finished-at="2019-11-04T09:05:45 IST" duration-ms="7201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:Sample@3835c46]" started-at="2019-11-04T09:05:45 IST" name="test3" finished-at="2019-11-04T09:05:50 IST" duration-ms="4920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:Sample@3835c46]" started-at="2019-11-04T09:05:50 IST" name="test4" finished-at="2019-11-04T09:05:58 IST" duration-ms="8321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:Sample@3835c46]" started-at="2019-11-04T09:05:58 IST" name="test5" finished-at="2019-11-04T09:06:01 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:6, instance:Sample@3835c46]" started-at="2019-11-04T09:06:01 IST" name="test6" finished-at="2019-11-04T09:06:01 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:7, instance:Sample@3835c46]" started-at="2019-11-04T09:06:01 IST" name="test7" finished-at="2019-11-04T09:06:01 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:8, instance:Sample@3835c46]" started-at="2019-11-04T09:06:01 IST" name="test8" finished-at="2019-11-04T09:06:04 IST" duration-ms="3062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
